@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 🚀 About Me:
 
 Cybersecurity Enthusiast: I'm currently diving deep into cybersecurity, with a focus on understanding fundamental networking concepts, operating systems, and the latest security practices.
@@ -26,4 +25,3 @@ Languages: Java, JavaScript, HTML/CSS, TypeScript, Python Frameworks: Bootstrap,
 ✨ Let's Connect: I enjoy learning in public and sharing my journey on LinkedIn.
 
 Thank you for visiting my profile! Let's collaborate and innovate together.
--->
