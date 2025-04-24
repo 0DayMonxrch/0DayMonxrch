@@ -1,5 +1,29 @@
-I'm a computer science undergraduate specialising in cybersecurity. I'm currently building expertise in penetration testing, network defence, and malware analysis using tools like Kali Linux, Metasploit, and Wireshark. I’m actively learning via TryHackMe and Hack The Box and running my own home lab.
+# 👨‍💻 Dibyadipan – Red Team & Cybersecurity Engineer
 
-Passionate about ethical hacking, red team techniques, and staying ahead of cyber threats. My goal is to contribute to advanced cybersecurity systems and eventually lead innovative research in AI-powered security.
+🚀 Aspiring Offensive Security Specialist | Building Red + Cloud Skillset  
+🔐 Passionate about hacking systems, automating exploits & breaking assumptions
 
-Let’s connect if you’re into cybersecurity, tech, or building something that changes the game.
+---
+
+## 🔨 Current Focus
+- ✅ Red Teaming labs (HTB, THM)
+- ✅ Learning: Red Team Tools, Priv Esc
+- 📚 Preparing for: Comptia Security+, OSCP
+
+---
+
+## 🧠 My Hacker Playbook
+🛠️ Tools & Notes → [Red Team Notes](https://github.com/Dibyadipan/red-team-notes)  
+🎯 Machine Writeups → [TryHackMe Writeups](https://github.com/Dibyadipan/red-team-notes/tryhackme-writeups)  
+🔗 Scripts → [Payload Repo](https://github.com/Dibyadipan/red-team-notes/automation-scripts)
+
+---
+
+## 🏆 TryHackMe Progress
+
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Dibyadipan.png)](https://tryhackme.com/p/Dibyadipan)
+
+---
+
+## 💬 Let's Connect!
+- 🔗 [LinkedIn](https://www.linkedin.com/in/dibyadipan/)
