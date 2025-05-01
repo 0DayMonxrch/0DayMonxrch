@@ -13,9 +13,9 @@
 ---
 
 ## 🧠 My Hacker Playbook
-🛠️ Tools & Notes → [Red Team Notes](https://github.com/Dibyadipan/red-team-notes)  
-🎯 Machine Writeups → [TryHackMe Writeups](https://github.com/Dibyadipan/red-team-notes/tryhackme-writeups)  
-🔗 Scripts → [Payload Repo](https://github.com/Dibyadipan/red-team-notes/automation-scripts)
+🛠️ Tools & Notes → [Red Team Notes](https://github.com/Dibyadipan/RedTeam-Journey)  
+🎯 Machine Writeups → [CTF Writeups](https://github.com/Dibyadipan/RedTeam-Journey/tree/main/CTF-Solutions)  
+🔗 Scripts → [Payload Repo](https://github.com/Dibyadipan/RedTeam-Journey/tree/main/Scripts)
 
 ---
 
