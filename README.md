@@ -1,7 +1,7 @@
-# 💫 About Me:
+# 🚀 About Me:
 
-- 🚀 Interest in Cybersecurity, particularly in Offensive Security, AI-Security convergence, and Quantum Computing Security.
-- 🔐 Aim to develop advanced technical expertise and contribute to building secure, scalable, and innovative solutions that address real-world security challenges.
+-  Interest in Cybersecurity, particularly in Offensive Security, AI-Security convergence, and Quantum Computing Security.
+-  Aim to develop advanced technical expertise and contribute to building secure, scalable, and innovative solutions that address real-world security challenges.
 
 ---
 
