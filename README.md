@@ -1,7 +1,9 @@
 # 🚀 About Me:
 
--  Interest in Cybersecurity, particularly in Offensive Security, AI-Security convergence, and Quantum Computing Security.
--  Aim to develop advanced technical expertise and contribute to building secure, scalable, and innovative solutions that address real-world security challenges.
+-  Computer Science Student
+-  Aspiring Cybersecurity Professional.
+-  **Interests**: Offensive Security, AI-LLM Security, Cloud Security, SOC
+-  Interested in contributing to research & security-startup space.
 
 ---
 
