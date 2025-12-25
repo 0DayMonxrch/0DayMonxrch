@@ -2,7 +2,7 @@
 
 -  Computer Science Student
 -  Aspiring Cybersecurity Professional.
--  **Interests**: Offensive Security, AI-LLM Security, Cloud Security, SOC
+-  **Interests**: Defensive Security, Detection Engineering, SOC
 -  Interested in contributing to research & security-startup space.
 
 ---
