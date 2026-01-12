@@ -1,22 +1,55 @@
-# 🚀 About Me:
+# Dibyadipan (ZeroDayMonarch)
 
--  Computer Science Student
--  Aspiring Cybersecurity Professional.
--  **Interests**: Defensive Security, Detection Engineering, SOC
--  Interested in contributing to research & security-startup space.
+### Defensive Security Engineer | Detection & Automation
 
----
+📍 India 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+**Focus**: Blue Team | Threat Detection | Security Automation
 
----
 
-## 🧠 My Hacker Playbook
-🛠️ Tools & Notes → [Red Team Notes](https://github.com/Dibyadipan/RedTeam-Journey)  
-🎯 Machine Writeups → [CTF Writeups](https://github.com/Dibyadipan/RedTeam-Journey/tree/main/CTF-Solutions)  
-🔗 Scripts → [Payload Repo](https://github.com/Dibyadipan/RedTeam-Journey/tree/main/Scripts)
+## $whoami
 
----
+I am a Computer Science undergraduate building hands-on experience in defensive security and SOC operations.
+
+My focus is on understanding attacker behavior, translating it into detections, and automating repeatable investigations.
+I work primarily with logs, networks, and Linux/Windows internals.
+
+Currently preparing for SOC Analyst / Blue Team roles with a strong emphasis on:
+- Incident investigation
+- Detection engineering fundamentals
+- Security tooling and automation
+
+
+## My Focus Areas
+- SOC Operations
+- Log Analysis
+- Detection logic & Alert Triage
+- Security Automation (Python, Go)
+
+
+
+## Hands-on Projects
+
+### 🔹 SOC Credential Theft Simulation & Detection
+
+- Simulated a valid-credential attack involving Windows authentication logs and Linux lateral movement.  
+- Built a structured incident timeline and investigation report aligned with SOC standards.
+
+**Skills:** Windows Event Logs, SSH, Log Correlation, Incident Reporting
+
+🔗 Repo: 
+
+
+
+## Tech Stack
+**Operating Systems:** Linux, Windows\
+**Languages:** Go, Python, C/C++\
+**Security Domains:** SOC, IR, Network Security\
+**Tools:** Wireshark, Burp Suite, Nmap, Git
+
+## Contact
+- GitHub: https://github.com/0DayMonxrch
+- LinkedIn: https://www.linkedin.com/in/dibyadipan
+
 
 
