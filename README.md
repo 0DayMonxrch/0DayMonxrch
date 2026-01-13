@@ -39,6 +39,15 @@ Currently preparing for SOC Analyst / Blue Team roles with a strong emphasis on:
 
 🔗 Repo: 
 
+---
+
+### 🔹 Concurrent TCP Port Scanner
+
+- A concurrent TCP port scanner written in Go
+
+**Skills:** Golang, concurrency, contexts
+
+🔗 Repo: https://github.com/0DayMonxrch/go-tcp-port-scanner
 
 
 ## Tech Stack
