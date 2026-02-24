@@ -30,14 +30,11 @@ Currently preparing for SOC Analyst / Blue Team roles with a strong emphasis on:
 
 ## Hands-on Projects
 
-### 🔹 SOC Credential Theft Simulation & Detection
+### 🔹 Project Management System
 
-- Simulated a valid-credential attack involving Windows authentication logs and Linux lateral movement.  
-- Built a structured incident timeline and investigation report aligned with SOC standards.
+- A production-grade RESTful API for collaborative project management, built in idiomatic Go.
 
-**Skills:** Windows Event Logs, SSH, Log Correlation, Incident Reporting
-
-🔗 Repo: 
+🔗 Repo: https://github.com/0DayMonxrch/project-management-system
 
 ---
 
