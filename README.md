@@ -1,61 +1,70 @@
 # Dibyadipan (ZeroDayMonarch)
 
-### Defensive Security Engineer | Detection & Automation
+**Backend & Platform Engineering · Security Engineering**
 
-📍 India 
-
-**Focus**: Blue Team | Threat Detection | Security Automation
-
-
-## $whoami
-
-I am a Computer Science undergraduate building hands-on experience in defensive security and SOC operations.
-
-My focus is on understanding attacker behavior, translating it into detections, and automating repeatable investigations.
-I work primarily with logs, networks, and Linux/Windows internals.
-
-Currently preparing for SOC Analyst / Blue Team roles with a strong emphasis on:
-- Incident investigation
-- Detection engineering fundamentals
-- Security tooling and automation
-
-
-## My Focus Areas
-- SOC Operations
-- Log Analysis
-- Detection logic & Alert Triage
-- Security Automation (Python, Go)
-
-
-
-## Hands-on Projects
-
-### 🔹 Project Management System
-
-- A production-grade RESTful API for collaborative project management, built in idiomatic Go.
-
-🔗 Repo: https://github.com/0DayMonxrch/project-management-system
+B.Tech Computer Science · India · Graduating 2028
 
 ---
 
-### 🔹 Concurrent TCP Port Scanner
+## About
 
-- A concurrent TCP port scanner written in Go
+I build backend systems in Go and study how they break under load.\
+Parallel to that, I'm going through Linux container internals from 
+the ground up: namespaces, cgroups, capabilities, seccomp - before touching 
+any tooling
 
-**Skills:** Golang, concurrency, contexts
+---
 
-🔗 Repo: https://github.com/0DayMonxrch/go-tcp-port-scanner
+## Currently Building
 
+### Distributed API Gateway *(active, in progress)*
 
-## Tech Stack
-**Operating Systems:** Linux, Windows\
-**Languages:** Go, Python, C/C++\
-**Security Domains:** SOC, IR, Network Security\
-**Tools:** Wireshark, Burp Suite, Nmap, Git
+A production-grade API Gateway in Go. The goal 
+is to make decisions a real platform team would make, and document why.
 
-## Contact
-- GitHub: https://github.com/0DayMonxrch
-- LinkedIn: https://www.linkedin.com/in/dibyadipan
+**What's in it:**
+- Rate limiting, JWT + mTLS auth, OIDC integration
+- Distributed tracing (Jaeger), metrics (Prometheus + Grafana)
+- Deployed on Kubernetes via Helm
+- Fault injection in tests, testcontainers-go for integration testing
+- Architecture decisions tracked in ADRs
 
+`Go` `Redis` `PostgreSQL` `Docker` `Kubernetes` `Helm` `Prometheus` `Jaeger` `JWT` `mTLS`
+
+*Repository goes public soon*
+
+---
+
+## Projects
+
+### [Project Management System](https://github.com/0DayMonxrch/project-management-system)
+
+I built it to understand how backend services are actually structured: 
+request lifecycle, middleware chains, error handling, clean separation of concerns.
+
+`Go` `REST` `PostgreSQL`
+
+---
+
+### [Concurrent TCP Port Scanner](https://github.com/0DayMonxrch/go-tcp-port-scanner)
+
+A concurrent port scanner in Go. An exercise in Go's concurrency primitives — 
+goroutines, channels, context cancellation, timeout propagation. Small project, 
+but it's where concurrency in Go clicked finally to me.
+
+`Go` `Networking` `Concurrency`
+
+---
+
+## Stack
+
+**Languages:** Go · Python · C/C++  
+**Infrastructure:** Docker · Linux  
+**Observability:** Prometheus · Grafana · Jaeger  
+**Currently learning:** Kubernetes internals · Container security (Linux primitives → exploitation) · eBPF
+
+---
+
+[LinkedIn](https://www.linkedin.com/in/dibyadipan) · [GitHub](https://github.com/0DayMonxrch)
 
 
