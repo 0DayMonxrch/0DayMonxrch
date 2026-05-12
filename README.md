@@ -1,6 +1,6 @@
 # Dibyadipan (ZeroDayMonarch)
 
-**Backend & Platform Engineering · Security Engineering**
+**Backend & Security Engineering**
 
 B.Tech Computer Science · India · Graduating 2028
 
@@ -9,29 +9,7 @@ B.Tech Computer Science · India · Graduating 2028
 ## About
 
 I build backend systems in Go and study how they break under load.\
-Parallel to that, I'm going through Linux container internals from 
-the ground up: namespaces, cgroups, capabilities, seccomp - before touching 
-any tooling
-
----
-
-## Currently Building
-
-### Distributed API Gateway *(active, in progress)*
-
-A production-grade API Gateway in Go. The goal 
-is to make decisions a real platform team would make, and document why.
-
-**What's in it:**
-- Rate limiting, JWT + mTLS auth, OIDC integration
-- Distributed tracing (Jaeger), metrics (Prometheus + Grafana)
-- Deployed on Kubernetes via Helm
-- Fault injection in tests, testcontainers-go for integration testing
-- Architecture decisions tracked in ADRs
-
-`Go` `Redis` `PostgreSQL` `Docker` `Kubernetes` `Helm` `Prometheus` `Jaeger` `JWT` `mTLS`
-
-*Repository goes public soon*
+Parallel to that, I'm going through Linux container internals from scratch.
 
 ---
 
@@ -60,7 +38,6 @@ but it's where concurrency in Go clicked finally to me.
 
 **Languages:** Go · Python · C/C++  
 **Infrastructure:** Docker · Linux  
-**Observability:** Prometheus · Grafana · Jaeger  
 **Currently learning:** Kubernetes internals · Container security (Linux primitives → exploitation) · eBPF
 
 ---
